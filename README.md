@@ -121,10 +121,3 @@ All outputs are saved automatically. Part 1 figures/tables go to the `Progetto_R
 | `table5_conditional_fairness.csv` | Predicted and actual default rates by FICO bin | Table 5 (p. 19) |
 | `table6_bias_gaps.csv` | Excess bias values by FICO quintile | Table 6 (p. 20) |
 | `table_summary_fairness.csv` | Fairness gaps summary across all models | Table 2 (p. 15) |
-
-
----
-
-## License
-
-MIT
